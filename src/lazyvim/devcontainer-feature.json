@@ -8,6 +8,7 @@
   "description": "A feature to install LazyVim",
   "options": {},
   "installsAfter": [
-    "ghcr.io/duduribeiro/devcontainer-features/neovim:1"
+    "ghcr.io/devcontainers/features/common-utils",
+    "ghcr.io/duduribeiro/devcontainer-features/neovim"
   ]
 }
