@@ -1,7 +1,7 @@
 {
   "name": "LazyVim",
   "id": "lazyvim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependsOn": {
     "ghcr.io/duduribeiro/devcontainer-features/neovim:1": {}
   },
